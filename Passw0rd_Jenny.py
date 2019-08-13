@@ -2,7 +2,7 @@
 
 
 '''
-    NAME : 2nd  PYTHON
+    NAME : 1st.1  PYTHON
     DATE : 11 - 08 - 2019
     AUTHOR : SinBad
 '''   
