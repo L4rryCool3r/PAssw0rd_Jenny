@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 
-''
+'''
     NAME : 2nd  PYTHON
     DATE : 11 - 08 - 2019
     AUTHOR : SinBad
