@@ -2,13 +2,13 @@
 
 
 '''
-    NAME : 1st.1  PYTHON
+    NAME : 1stish.1.23  PYTHON
     DATE : 11 - 08 - 2019
-    AUTHOR : SinBad
+    AUTHOR : LCSinBadLC
 '''   
 import string
 from random import *
-print("****   My first Python Code   ****\n\n\n")
+print("****   My secondish Python Code   ****\n\n\n")
 print("     -- Generate password --\n")
 chars = string.ascii_letters + string.digits + string.punctuation
 
