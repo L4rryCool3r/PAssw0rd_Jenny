@@ -48,4 +48,4 @@ def createPassword():
 createPassword()
 
 
-print "give me a bottle of rum!"
+#print "give me a bottle of rum!"
